@@ -1,0 +1,15 @@
+# Ignore class files
+*.class
+
+# IntelliJ / VS Code / IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Ignore compiled jars or build folders
+/out/
+target/
+bin/
+
