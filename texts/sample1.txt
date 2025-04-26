@@ -1,0 +1,2 @@
+Java is a powerful language. It supports multithreading, object-oriented programming, and platform independence.
+

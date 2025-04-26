@@ -1,0 +1,2 @@
+Concurrency can improve performance when used properly. Java provides tools like Thread, Runnable, and ExecutorService.
+
